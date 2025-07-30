@@ -11,7 +11,7 @@
 
 </div>
 
-![Dahej Calculator Screenshot](YOUR_SCREENSHOT_LINK_HERE)
+<img width="1366" height="752" alt="image" src="https://github.com/user-attachments/assets/0931d221-1c9e-460b-8791-ade54a7b3c32" />
 
 ---
 
