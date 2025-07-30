@@ -51,7 +51,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPONAME.git](https://github.com/YOUR_USERNAME/YOUR_REPONAME.git)
+    git clone [https://github.com/airobus/Dahej-Calculator.git](https://github.com/airobus/Dahej-Calculator.git)
     ```
 2.  Install NPM packages
     ```sh
@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 1.  रेपो को क्लोन करें
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPONAME.git](https://github.com/YOUR_USERNAME/YOUR_REPONAME.git)
+    git clone [https://github.com/airobus/Dahej-Calculator.git](https://github.com/airobus/Dahej-Calculator.git)
     ```
 2.  NPM पैकेज इंस्टॉल करें
     ```sh
